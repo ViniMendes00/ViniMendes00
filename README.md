@@ -1,15 +1,11 @@
 <div>
   
   <h1 align="center">
-    Olá Tudo bem? Me chamo Vinicius</a>
+    Olá tudo bem? Bem-vindo ao meu perfil</a>
   </h1>
   
   <p align="center">
-    Sou estudante da Escola <a href="https://www.instagram.com/mariacardosocastilho_oficial/">Maria Cardoso Castilho</a> e estou no 3º ano do Ensino Médio.
-  </p>
-  
-  <p align="center">
-    Caso queira saber mais sobre meus projetos, basta seguir meu perfil aqui no GitHub. 😃
+    Me chamo Vinicius e estou no ensino médio na escola E.E Maria Cardoso Castilho. Gosto muito de programação e criei este GitHub para postar meus projetos. Caso queira saber mais sobre meus projetos, basta entrar na aba 'Repositórios' e lá você encontrará todos os meus projetos.
   </p>
 </div>
 
@@ -25,12 +21,8 @@
 
 <div align="center">
   <a href="https://www.instagram.com/vini.mendes00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/ViniMendes00/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mariacardosocastilho_oficial/" target="_blank"><img src="https://img.shields.io/badge/-Escola-%230077B5?style=for-the-badge&logo=googlescholar&logoColor=white" target="_blank"></a>
 </div>
 
 </br>
 </br>
-
-<div align="center">
-  <p>• Feito por Vinicius Reis •</p>
-</div>
